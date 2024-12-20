@@ -11,6 +11,7 @@ Article is a dynamic web application for a hacking and technology blog, develope
 
 <img width="1885" alt="Снимок экрана 2024-12-20 в 15 39 26" src="https://github.com/user-attachments/assets/b83f28ad-01c4-4dfa-b512-bf7e35768060" />
 
+
 🌟 Features
 Dark/Light Mode Toggle: Seamless theme switching for user comfort
 Multiple Article Categories:
@@ -22,6 +23,8 @@ News
 Responsive Design: Mobile and desktop friendly
 Article Creation: Easy-to-use form for adding new articles
 Glitch Effect: Unique header animation for a hacker aesthetic
+
+
 🛠 Tech Stack
 Frontend:
 HTML5
@@ -31,12 +34,16 @@ Backend: Django (implied from template syntax)
 Styling:
 Custom CSS with dark/light mode
 Google Fonts (Fira Code, Anonymous Pro)
+
+
 🎨 Design Highlights
 Cyberpunk-inspired color scheme
 Monospace typography
 Glitch text animation
 Responsive layout
 Dark and light mode with smooth transitions
+
+
 📂 Project Structure
 exam-2/
 │
@@ -52,6 +59,8 @@ exam-2/
 │       └── styles.css       # Main stylesheet
 │
 └── manage.py                # Django project management script
+
+
 🚦 Quick Start
 Clone the repository
 
@@ -70,35 +79,47 @@ python manage.py migrate
 Start the development server
 
 python manage.py runserver
+
+
 🌈 Mode Switching
 The application features a light/dark mode toggle:
 
 Dark mode (default): Cyberpunk-style dark background
 Light mode: Clean, readable white background
 Instantly switch between modes with a single click
+
+
 🔒 Security Considerations
 Implements CSRF protection
 Uses Django's built-in security features
 Encourages responsible disclosure of vulnerabilities
+
+
 📝 Article Categories
 Exploits: Latest security vulnerabilities
 Tools: Cybersecurity and hacking tools
 CTF: Capture The Flag challenges and writeups
 Tutorials: Step-by-step guides
 News: Latest cybersecurity news and updates
+
+
 🤝 Contributing
 Fork the repository
 Create your feature branch (git checkout -b feature/AmazingFeature)
 Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
+
+
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
+
 
 🌍 Contact
 Astrum IT Academy H4ck3rs - Samandar Nayimjon
 
 Project Link: https://github.com/Samandar005/exam-2
+
 
 🎉 Acknowledgements
 Astrum IT Academy
