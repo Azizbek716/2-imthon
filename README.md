@@ -116,9 +116,9 @@ Distributed under the MIT License. See LICENSE for more information.
 
 
 🌍 Contact
-Astrum IT Academy H4ck3rs - Samandar Nayimjon
+Astrum IT Academy H4ck3rs - Azizbek Raxmatjonov
 
-Project Link: https://github.com/Samandar005/exam-2
+Project Link: https://github.com/Azizbek716/2-imthon
 
 
 🎉 Acknowledgements
